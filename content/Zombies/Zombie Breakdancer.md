@@ -1,0 +1,1 @@
+In order to toss zombies they need to be inside of breakdancer's hitrect, then it'll use the tossrect to measure the toss hitbox

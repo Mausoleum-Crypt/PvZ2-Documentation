@@ -1,0 +1,1 @@
+Idle animation freezes when there's zombies on its lane and not attacking
