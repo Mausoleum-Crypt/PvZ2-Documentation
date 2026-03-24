@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Custom OG Images
 tags:
   - feature/emitter
@@ -358,4 +358,4 @@ export const og: SocialImageOptions["Component"] = (
     </div>
   )
 }
-```
+``` -->
